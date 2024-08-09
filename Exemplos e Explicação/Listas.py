@@ -8,3 +8,4 @@ print(bicycles)
 
 print(bicycles[2])
 # Aqui solicitei o item 2 da lista e ele retorna apenas o elemento presente naquela posicao 
+
